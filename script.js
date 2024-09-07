@@ -1,6 +1,6 @@
 let x=4;
 function checkOddOrEven(x) {
-    if (x %2 === 0) {
+    if (x %2 == 0) {
         return "Number is even";
     }
     else {
